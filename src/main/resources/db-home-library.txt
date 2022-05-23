@@ -1,5 +1,0 @@
-1__ __Robert Lafore1__ __Data Structures and Algorithms in Java__ __2018
-2__ __Robert Lafore2__ __Data Structures and Algorithms in Java__ __2018
-3__ __Robert Lafore3__ __Data Structures and Algorithms in Java__ __2018
-4__ __Robert Lafore4__ __Data Structures and Algorithms in Java__ __2018
-5__ __Robert Lafore5__ __Data Structures and Algorithms in Java__ __2018
